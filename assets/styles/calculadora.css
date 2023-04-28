@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(90deg, rgba(145,10,171,1) 19%, rgba(9,121,120,1) 73%, rgba(0,212,255,1) 100%);
+    background-image: url(../img/fondo.jpg);
+}
+
+.btn {
+    margin: 3px;
+    font-size: 2rem;
+}
+.container {
+    display: grid;
+    min-height: 10vh;
+   
+}
+
+input{
+    text-align: right;
+    border: 10px solid black;
+    border-radius: 15px;
+    padding: 30px;
+    font-size: 2rem;
+
+    
+}
+.top{
+    margin-top: 100px;
+    
+
+}
